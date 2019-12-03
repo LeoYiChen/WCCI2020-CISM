@@ -4,11 +4,11 @@ https://wcci2020.org/cross-disciplinary-applications-sessions/
 
 @ wcci2020.org
 
-**1. Title **
+**1. Title**
 
 Computational Intelligence and Smart Manufacturing (CISM)
 
-**2. Aims **
+**2. Aims**
 
 Computational Intelligence (CI) offers a wealth of ideas for solving real-world problems. Smart manufacturing (SM) employs computer-integrated engineering in industrial value chain. The special session in ‘Computational Intelligence and Smart Manufacturing’ aims to call for papers reporting various applications of CI to SM.
 
