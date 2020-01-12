@@ -2,6 +2,8 @@
 
 https://wcci2020.org/cross-disciplinary-applications-sessions/ 
 
+https://leoyichen.github.io/WCCI2020-CISM/
+
 @ wcci2020.org
 
 **1. Title:**
@@ -56,7 +58,7 @@ Professor Xifan Yao
 Professor Jorn Mehnen 
 
 **1) Dr Leo Chen**
-School of Engineering, Newcastle University, Newcastle upon Tyne, NE1 7RU, United Kingdom. leo.chen@newcastle.ac.uk
+Newcastle University, Newcastle upon Tyne, NE1 7RU, United Kingdom. leo.chen@newcastle.ac.uk
 
 Leo Chen (M'10-SM'17) received the B.Sc degree in Automotive Engineering from Chongqing University of Technology, in 2000, the M.Sc. degree in Automotive Engineering from Chongqing University, in 2004, and the Ph.D. degrees in Mechanical Engineering from University of Glasgow, in 2010. He has been taking a leading role in the previous and current department to maintain cross-disciplinary research links, and develop external research collaborations both nationally and internationally. Also, he has been leading a few research grants in the areas of artificial intelligence, high-performance computing, robotics and autonomous systems, and also studies in multi-disciplinary contexts. He has a high-level output of research publications in leading international journals and presentations at international conferences, which related to the research area of robotics, digital manufacturing, and industry 4.0, which demonstrates significant research and grant potential in engineering and cross-disciplinary applications. He is a member of IET, AAAI, AIAA, and ASME, a fellow of HEA, and a fellow of IMechE. He is also a Chartered Engineer. Dr Chen has published over 100 academic papers in both high impact international academic journal and international conferences and has been selected as a Publons' top 1% of reviewers in Computer Science and Engineering. He has been actively involved in both academic research and KTP projects as PI and CoI funded by EPSRC (UK), Horizon2020 (EU), NSFC (China), National Key Research and Development Program of China and Industrial funding bodies. One of the co-organisers of the WCCI'16 Special Session on Computational Intelligence for Industry 4.0 and CEC'19 Special Session on Evolutionary Computation for Creativity, Manufacture and Engineering Management in the Industry 4.0 Era. Besides, he is an editorial board member, and he has been a guest editor for five special issues.
 
@@ -73,7 +75,7 @@ Xifan Yao received the B.S. degree from Hefei University of Technology, Hefei, C
 **4) Professor Jorn Mehnen**
 Department of Design, Manufacturing and Engineering Management, University of Strathclyde, Glasgow G1 1XJ, UK. jorn.mehnen@strath.ac.uk
 
-Priv.-Doz. Dr.-Ing. Dipl.-Inform. Jörn Mehnen has a background in machining technology (PhD) and soft computing (MSc) from TU Dortmund, Germany. He studied computer science and mathematics (Dipl.-Inform.). In 1995 he began his research career at the Department of Machining Technology (ISF) at the University of Dortmund, Germany. There he obtained his PhD (Dr.-Ing., summa cum laude) and received admittance for teaching (venia legendi, Habilitation) in 2005 as a Privatdozent (Priv.-Doz.). In 2007 he joined Cranfield University as a Senior Lecturer within the Manufacturing Department. He is also Privatdozent at TU Dortmund (Germany). In 2013 he was promoted to Reader in Computational Manufacturing at Cranfield University. In 2016, he was appointed to Professor at University of Strathclyde. Prof Mehnen is specialised in Advanced Digital Manufacturing. His research aims to deliver new and exciting scientific insights as well as practical technological solutions that help industry and academia alike. His current interests include Advanced Digital Manufacturing, Industry 4.0 technology, Cyber Physical Systems (CPS), Industrial Internet of Things (IIoT)，Cloud Manufacturing and Big Data Analytics. His work around Design for Industry 4.0 and Digital Manufacturing is aiming to improve existing Manufacturing Systems to make them smarter, more autonomous and agile, cost efficient, better connected and well informed Through-Life. These efforts are supported by research into Additive Manufacturing, Data Analytics, Computational Intelligence and Visualisation. 
+Priv.-Doz. Dr.-Ing. Dipl.-Inform. J?rn Mehnen has a background in machining technology (PhD) and soft computing (MSc) from TU Dortmund, Germany. He studied computer science and mathematics (Dipl.-Inform.). In 1995 he began his research career at the Department of Machining Technology (ISF) at the University of Dortmund, Germany. There he obtained his PhD (Dr.-Ing., summa cum laude) and received admittance for teaching (venia legendi, Habilitation) in 2005 as a Privatdozent (Priv.-Doz.). In 2007 he joined Cranfield University as a Senior Lecturer within the Manufacturing Department. He is also Privatdozent at TU Dortmund (Germany). In 2013 he was promoted to Reader in Computational Manufacturing at Cranfield University. In 2016, he was appointed to Professor at University of Strathclyde. Prof Mehnen is specialised in Advanced Digital Manufacturing. His research aims to deliver new and exciting scientific insights as well as practical technological solutions that help industry and academia alike. His current interests include Advanced Digital Manufacturing,?Industry 4.0 technology, Cyber Physical Systems (CPS), Industrial Internet of Things (IIoT)，Cloud Manufacturing and Big Data Analytics. His work around Design for Industry 4.0 and Digital Manufacturing is aiming to improve existing Manufacturing Systems to make them smarter, more autonomous and agile, cost efficient, better connected and well informed Through-Life. These efforts are supported by research into Additive Manufacturing, Data Analytics, Computational Intelligence and Visualisation. 
 
 
 **5.Important Dates:**
@@ -92,12 +94,24 @@ Priv.-Doz. Dr.-Ing. Dipl.-Inform. Jörn Mehnen has a background in machining tec
 
 Submissions to this Special Session should follow the same submission guidelines as other papers of WCCI 2020. For more information, please refer to the WCCI2020 (wcci2020.org).
 
+Go to WCCI2020 submission page: https://wcci2020.org/submissions/
+
+Click on CEC: https://ieee-cis.org/conferences/cec2020/upload.php
+
+Select **SC29. Computational Intelligence and Smart Manufacturing (CISM)**
+
+
+![](https://github.com/LeoYiChen/i4ai-WCCI2020-CISM/blob/master/SC29.jpg)
+
 ***
 
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0031.JPG)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/2015-02-21%20Glasgow%20to%20Glencoe_0032.JPG)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/%E6%B8%85%E9%A3%8E%E6%98%8E%E6%9C%88%E9%9B%86-%E5%9B%BE%E6%96%87%E7%89%88-%5B%E8%8F%A9%E8%90%A8%E8%9B%AE.%E5%A4%8F%5D.jpg)
-![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/20150408_113603.jpg)
+
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pfm3ngryqD1w7asx1_540.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_psdieapOdv1vvczb6o1_1280.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pt9ag1Rrav1vvczb6o1_1280.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_pt9bkmpARP1rxcvjdo1_1280.jpg)
+![](https://github.com/LeoYiChen/WCCI2020-AIREA/blob/master/tumblr_ptadcai30t1rtx1blo1_640%20(1).jpg)
+
 
 
 
